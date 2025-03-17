@@ -1,4 +1,4 @@
-## $1 Billion+ secured
+## $1 Billion+ Secured | Crypto native since 2017 | Security Researcher since 2021
 
 Vitali Gorgut is a leading cybersecurity expert specializing in blockchain security. With a proven track record, Vitali has helped secure **over $1 billion in user funds** across **30+ blockchain projects**, including industry giants like **Uniswap V4** and **Reserve Protocol**.
 
