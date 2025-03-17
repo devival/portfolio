@@ -17,10 +17,10 @@ Since 2017, Vitali has been actively involved in the crypto space, witnessing it
 
 | **When** | **Report** | **Tech** |
 | --- | --- | --- |
-| Q1-2025 | FarcasterAttestation (Cantina) | Solidity |
+| Q1-2025 | [FarcasterAttestation](https://cantina.xyz/competitions/f9326d2b-bb99-45a9-88c5-94c54aa1823a) | Solidity |
 | Q1-2025 | Astroport (unpublished) | Rust/CosmWasm |
 | Q1-2025 | Unipay Stablecoin (unpublished) | Rust/Solana |
-| Q1-2025 | Chorus One (Cantina) | TON/FunC |
+| Q1-2025 | [Chorus One](https://cantina.xyz/competitions/e9e9b3e0-f213-45e4-8d05-d72bf0c8787a) | TON/FunC |
 | Q4-2024 | Collar Protocol (Cantina) | Solidity |
 | Q4-2024 | [Push Protocol - Solana](https://github.com/oak-security/audit-reports/blob/main/Push/2024-12-06%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Rust.pdf) | Rust/Solana |
 | Q4-2024 | [Push Protocol - StarkNet](https://github.com/oak-security/audit-reports/blob/main/Push/2024-11-29%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Cairo.pdf) | Cairo/StarkNet |
