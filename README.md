@@ -21,6 +21,7 @@ Since 2017, Vitali has been actively involved in the crypto space, witnessing it
 | Q3-2025 | [Minter & Oracle - Structured Private Deposit/MaxBTC]() (unpublished) | Rust/CosmWasm |
 | Q3-2025 | [Valdora - ReAudit]() (unpublished) | Rust/CosmWasm |
 | Q3-2025 | [Valdora]() (unpublished) | Rust/CosmWasm |
+| Q3-2025 | [ZkSync OS]() (unpublished) | Rust/Solidity |
 | Q2-2025 | [Jupiter Helper - Structured Private Deposit]() (unpublished) | Rust/Solana |
 | Q2-2025 | [SelfChain](https://github.com/oak-security/audit-reports/blob/main/Selfchain/2025-06-18%20Audit%20Report%20-%20Selfchain.pdf) | CosmWasm |
 | Q2-2025 | [ZigChain]() (unpublished) | Cosmos SDK/Go/Rust/CosmWasm |
