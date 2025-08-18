@@ -10,6 +10,7 @@ Vitali's deep understanding of blockchain architecture spans a wide range of pla
 - **Cairo/Starknet** smart contracts.
 - **Solana** programs.
 - **Rust-based projects**, including CosmWasm smart contracts.
+- **TON/FunC** smart contracts.
 
 ### A Pioneer in Blockchain Security
 
