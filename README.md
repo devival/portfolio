@@ -18,19 +18,28 @@ Since 2017, Vitali has been actively involved in the crypto space, witnessing it
 
 | **When** | **Report** | **Tech** |
 | --- | --- | --- |
-| Q3-2025 | [Minter & Oracle - Structured Private Deposit/MaxBTC]() (unpublished) | Rust/CosmWasm |
-| Q3-2025 | [Valdora - ReAudit]() (unpublished) | Rust/CosmWasm |
-| Q3-2025 | [Valdora]() (unpublished) | Rust/CosmWasm |
-| Q3-2025 | [ZkSync OS]() (unpublished) | Rust/Solidity |
-| Q2-2025 | [Jupiter Helper - Structured Private Deposit]() (unpublished) | Rust/Solana |
+| Q1-2026 | work in progress | EVM/Solidity |
+| Q1-2026 | [EVM Oracle Contracts - Structured MaxBTC ]() (not published yet) | EVM/Solidity |
+| Q1-2026 | [EVM Minting Contracts - Structured MaxBTC ]() (not published yet) | EVM/Solidity |
+| Q1-2026 | [CosmWasm and Solana Updates - Structured](https://github.com/oak-security/audit-reports/blob/4acb749d9e5e1e3d50571b783446e2743fc1efe1/Structured/2025-12-24%20Audit%20Report%20-%20Structured%20CosmWasm%20and%20Solana%20Updates%20v1.0.pdf) | Rust/CosmWasm |
+| Q4-2025 | [Structured MaxBTC]() (not published yet) | EVM/Solidity |
+| Q4-2025 | [Private Deposit Whitelist - Structured](https://github.com/oak-security/audit-reports/blob/c67147e6573a9f174a5695c2c1aa87d7b4b35c18/Structured/2025-12-04%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Whitelist%20v1.0.pdf) | EVM/Solidity |
+| Q4-2025 | [Structured ERC20 Converter, ETH Wrapper, MaxBTC ERC20 for Eureka Bridge v1.0](https://github.com/oak-security/audit-reports/blob/2b9963f71f98846531da929f6144f773cfde4d59/Structured/2025-11-25%20Audit%20Report%20-%20Structured%20ERC20%20Converter%2C%20ETH%20Wrapper%2C%20MaxBTC%20ERC20%20for%20Eureka%20Bridge%20v1.0.pdf)  | EVM/Solidity |
+| Q4-2025 | [ZigChain Updates](https://github.com/oak-security/audit-reports/blob/3c880927554daacc75313f57f7ffdc5262c62bcb/ZIGChain/2025-12-19%20Audit%20Report%20-%20ZIGChain%20Update.pdf) | Rust/CosmWasm |
+| Q4-2025 | [Apriori](https://github.com/oak-security/audit-reports/blob/061d25770039428aa090cfae3d6c9f5b408b280e/Apriori/2025-10-03%20Audit%20Report%20-%20aPriori%20APR%20Token%20and%20Staked%20APR%20Token.pdf) | EVM/Solidity |
+| Q3-2025 | [Minter & Oracle - Structured Private Deposit/MaxBTC](https://github.com/oak-security/audit-reports/blob/f7ab39a005cf074c23842c6da7f7e967c7b112e7/Structured/2025-10-20%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Minter%20and%20Oracle%20Contracts%20v1.1.pdf) | Rust/CosmWasm |
+| Q3-2025 | [Valdora - ReAudit](https://github.com/oak-security/audit-reports/blob/dffb6152c91c728766c467a7e9e3eed3fdad2f91/Valdora/2025-09-28%20Audit%20Report%20-%20Valdora.pdf)  | Rust/CosmWasm |
+| Q3-2025 | [Valdora](https://github.com/oak-security/audit-reports/blob/dffb6152c91c728766c467a7e9e3eed3fdad2f91/Valdora/2025-09-28%20Audit%20Report%20-%20Valdora.pdf) | Rust/CosmWasm |
+| Q3-2025 | [ZkSync OS](https://github.com/taran-space/audit-reports/blob/main/2025-10-ZKsync-OS.pdf) | Rust/Solidity |
+| Q2-2025 | [Jupiter Helper - Structured Private Deposit]() (not published yet) | Rust/Solana |
 | Q2-2025 | [SelfChain](https://github.com/oak-security/audit-reports/blob/main/Selfchain/2025-06-18%20Audit%20Report%20-%20Selfchain.pdf) | CosmWasm |
-| Q2-2025 | [ZigChain]() (unpublished) | Cosmos SDK/Go/Rust/CosmWasm |
+| Q2-2025 | [ZigChain](https://github.com/oak-security/audit-reports/blob/2282c23a072e36779afcd018cfbecb7e9904663f/ZIGChain/2025-08-25%20Audit%20Report%20-%20ZIGChain.pdf) | Cosmos SDK/Go/Rust/CosmWasm |
 | Q2-2025 | [Anichess Ethereum Contracts - Animoca](https://github.com/oak-security/audit-reports/blob/main/Animoca/2025-06-23%20Audit%20Report%20-%20Anichess%20Ethereum%20Contracts%20v1.2.pdf) | EVM/Solidity |
 | Q2-2025 | [Animoca Staking Pool](https://github.com/oak-security/audit-reports/blob/main/Animoca/2025-06-24%20Audit%20Report%20-%20Animoca%20Staking%20Pool%20v1.2.pdf) | EVM/Solidity |
 | Q2-2025 | [All Unity](https://github.com/oak-security/audit-reports/blob/main/All%20Unity/2025-07-11%20Audit%20Report%20-%20AllUnity.pdf) | EVM/Solidity |
 | Q2-2025 | [ICN Fairdrop](https://github.com/oak-security/audit-reports/blob/main/ICN/2025-05-22%20Audit%20Report%20-%20ICN%20Fairdrop.pdf) | EVM/Solidity |
 | Q2-2025 | [ICN Protocol](https://github.com/oak-security/audit-reports/blob/main/ICN/2025-05-02%20Audit%20Report%20-%20ICN%20Protocol.pdf) | EVM/Solidity |
-| Q2-2025 | [MaxBTC - Structured Deposit Contract]() (unpublished) | EVM/Solidity |
+| Q2-2025 | [MaxBTC - Structured Deposit Contract]() (not published yet) | EVM/Solidity |
 | Q2-2025 | [Escher](https://github.com/oak-security/audit-reports/blob/main/Escher/2025-04-29%20Audit%20Report%20-%20Escher.pdf) | Rust/CosmWasm |
 | Q2-2025 | [Escher v1.0](https://github.com/oak-security/audit-reports/blob/main/Escher/2025-04-09%20Audit%20Report%20-%20Escher%20v1.0.pdf) | Rust/CosmWasm |
 | Q1-2025 | [Satlayer LST](https://github.com/oak-security/audit-reports/blob/main/SatLayer/2025-04-10%20Audit%20Report%20-%20SatLayer%20LST%20v1.0.pdf) | Rust/CosmWasm |
