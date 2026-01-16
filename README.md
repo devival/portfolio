@@ -77,3 +77,4 @@ Since 2017, Vitali has been actively involved in the crypto space, witnessing it
 | Q3-2023 | [**Stablecoin**](https://github.com/devival/2023-09-cyfrin) | EVM/Solidity |
 | Q2-2023 | [AJNA Protocol](https://audits.sherlock.xyz/contests/75) | EVM/Solidity |
 | Q2-2023 | [**Lybra Finance**](https://github.com/devival/2023-06-lybra) | EVM/Solidity |
+| 2022 | Hands-on exercises for [Smart Contract Hacking Course](https://smartcontractshacking.com/) by [Johnny time](https://www.youtube.com/@JohnnyTime) | EVM/Solidity |
