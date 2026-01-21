@@ -1,10 +1,10 @@
 ## $1 Billion+ Secured | Crypto native since 2017 | Security Researcher since 2021
 
-Vitali Gorgut is a leading cybersecurity expert specializing in blockchain security. With a proven track record, Vitali has helped secure **over $1 billion in user funds** across **30+ blockchain projects**, including industry giants like **Uniswap V4** and **Reserve Protocol**.
+Devival (VG) is a leading cybersecurity expert specializing in blockchain security. With a proven track record, he has helped secure **over $1 billion in user funds** across **30+ blockchain projects**, including industry giants like **Uniswap V4** and **Reserve Protocol**.
 
 ### Expertise Across Multiple Chains
 
-Vitali's deep understanding of blockchain architecture spans a wide range of platforms:
+Devival's deep understanding of blockchain architecture spans a wide range of platforms:
 
 - **Solidity/EVM** smart contracts.
 - **Cairo/Starknet** smart contracts.
@@ -14,7 +14,7 @@ Vitali's deep understanding of blockchain architecture spans a wide range of pla
 
 ### A Pioneer in Blockchain Security
 
-Since 2017, Vitali has been actively involved in the crypto space, witnessing its evolution firsthand. This hands-on experience, combined with a strong computer science background, translates into unparalleled practical skills and a deep commitment to crypto safety. Below is the list of Vitali's most recent and highlighted engagements:
+Since 2017, Devival has been actively involved in the crypto space, witnessing its evolution firsthand. This hands-on experience, combined with a strong computer science background, translates into unparalleled practical skills and a deep commitment to crypto safety. Below is the list of Vitali's most recent and highlighted engagements:
 
 | **When** | **Report** | **Tech** |
 | --- | --- | --- |
