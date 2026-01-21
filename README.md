@@ -14,7 +14,7 @@ Devival's deep understanding of blockchain architecture spans a wide range of pl
 
 ### A Pioneer in Blockchain Security
 
-Since 2017, Devival has been actively involved in the crypto space, witnessing its evolution firsthand. This hands-on experience, combined with a strong computer science background, translates into unparalleled practical skills and a deep commitment to crypto safety. Below is the list of Vitali's most recent and highlighted engagements:
+Since 2017, Devival has been actively involved in the crypto space, witnessing its evolution firsthand. This hands-on experience, combined with a strong computer science background, translates into unparalleled practical skills and a deep commitment to crypto safety. Below is the list of Devival's most recent and highlighted engagements:
 
 | **When** | **Report** | **Tech** |
 | --- | --- | --- |
