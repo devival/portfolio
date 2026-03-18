@@ -1,6 +1,6 @@
 ## $1 Billion+ Secured | Crypto native since 2017 | Security Researcher since 2021
 
-Devival (VG) is a leading cybersecurity expert specializing in blockchain security. With a proven track record, he has helped secure **over $1 billion in user funds** across **30+ blockchain projects**, including industry giants like **Uniswap V4** and **Reserve Protocol**.
+Devival (VG) is a leading cybersecurity expert specializing in blockchain security. With a proven track record, he has helped secure **over $1 billion in user funds** across **30+ blockchain projects**, including industry giants like **Uniswap** and **Reserve Protocol**.
 
 ### Expertise Across Multiple Chains
 
