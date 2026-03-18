@@ -18,7 +18,7 @@ Since 2017, Devival has been actively involved in the crypto space, witnessing i
 
 | **When** | **Report** | **Tech** |
 | --- | --- | --- |
-| Q1-2026 | work in progress | EVM/Solidity |
+| Q1-2026 | [**Reserve Protocol**](https://github.com/oak-security/audit-reports/blob/main/Reserve/2026-03-12%20Audit%20Report%20-%20Reserve%20Updates.pdf) | EVM/Solidity |
 | Q1-2026 | [EVM Oracle Contracts - Structured MaxBTC ]() (not published yet) | EVM/Solidity |
 | Q1-2026 | [EVM Minting Contracts - Structured MaxBTC ]() (not published yet) | EVM/Solidity |
 | Q1-2026 | [CosmWasm and Solana Updates - Structured](https://github.com/oak-security/audit-reports/blob/4acb749d9e5e1e3d50571b783446e2743fc1efe1/Structured/2025-12-24%20Audit%20Report%20-%20Structured%20CosmWasm%20and%20Solana%20Updates%20v1.0.pdf) | Rust/CosmWasm |
