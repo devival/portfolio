@@ -1,6 +1,6 @@
 ## $1 Billion+ Secured | Crypto native since 2017 | Security Researcher since 2021
 
-Devival (VG) is a leading cybersecurity expert specializing in blockchain security. With a proven track record, he has helped secure **over $1 billion in user funds** across **30+ blockchain projects**, including industry giants like **Uniswap** and **Reserve Protocol**.
+Devival (VG) is a leading cybersecurity expert specializing in blockchain security and AI security. With a proven track record, he has helped secure **over $1 billion in user funds** across **30+ blockchain projects**, including industry giants like **Uniswap** and **Reserve Protocol**.
 
 ### Expertise Across Multiple Chains
 
@@ -11,6 +11,18 @@ Devival's deep understanding of blockchain architecture spans a wide range of pl
 - **Solana** programs.
 - **Rust-based projects**, including CosmWasm smart contracts.
 - **TON/FunC** smart contracts.
+
+## AI & LLM Security
+
+Extending the same adversarial security work into AI agents and LLM applications by building the tooling that measures dangerous capabilities, and breaking real AI systems hands-on.
+
+**[vuln-agent-eval](https://github.com/devival/vuln-agent-eval)** — an open-source dangerous-capability eval harness for autonomous LLM vulnerability discovery. A multi-step agent (discover → adversarially verify → LLM judge) scored on precision / recall / F1 / cost across a multi-model matrix (Claude, DeepSeek) against single-shot and Slither baselines on a labeled corpus.
+
+**CyberArk Secure AI Agents — 8/8 (Advanced + Expert).** Solved every challenge in CyberArk's AI-agent / LLM-application security workshop, demonstrating hands-on exploitation across multiple vulnerability classes — code injection → RCE, insecure deserialization, MCP resource / access-control abuse, multi-agent confused-deputy privilege escalation, TOCTOU / double-spend, and indirect prompt injection — mapped to the **OWASP Top 10 for LLM Applications** and **MITRE ATLAS**.
+
+**Frontier-model red-teaming** — hands-on jailbreaks of frontier models into disclosing or granting privileged access within agentic contexts.
+
+**Focus areas:** OWASP LLM Top 10 · MITRE ATLAS · prompt injection · dangerous-capability evaluation · adversarial verification · agentic-AI security
 
 ### A Pioneer in Blockchain Security
 
